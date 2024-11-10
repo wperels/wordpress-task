@@ -1,0 +1,79 @@
+[03-Nov-2024 16:10:01 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[04-Nov-2024 20:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function boilerplate_language_attributes() in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php:2
+Stack trace:
+#0 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(745): load_template('C:\\Users\\wpere\\...', true, Array)
+#2 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\index.php(3): get_header()
+#4 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wpere\\...')
+#5 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wpere\\...')
+#6 C:\Users\wpere\Local Sites\client-blog-site\app\public\index.php(17): require('C:\\Users\\wpere\\...')
+#7 {main}
+  thrown in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php on line 2
+[04-Nov-2024 20:28:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function boilerplate_language_attributes() in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php:2
+Stack trace:
+#0 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(745): load_template('C:\\Users\\wpere\\...', true, Array)
+#2 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\index.php(3): get_header()
+#4 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wpere\\...')
+#5 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wpere\\...')
+#6 C:\Users\wpere\Local Sites\client-blog-site\app\public\index.php(17): require('C:\\Users\\wpere\\...')
+#7 {main}
+  thrown in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php on line 2
+[04-Nov-2024 20:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function boilerplate_language_attributes() in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php:2
+Stack trace:
+#0 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(745): load_template('C:\\Users\\wpere\\...', true, Array)
+#2 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\index.php(3): get_header()
+#4 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wpere\\...')
+#5 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wpere\\...')
+#6 C:\Users\wpere\Local Sites\client-blog-site\app\public\index.php(17): require('C:\\Users\\wpere\\...')
+#7 {main}
+  thrown in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php on line 2
+[04-Nov-2024 20:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function boilerplate_language_attributes() in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php:2
+Stack trace:
+#0 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(745): load_template('C:\\Users\\wpere\\...', true, Array)
+#2 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\index.php(3): get_header()
+#4 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wpere\\...')
+#5 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wpere\\...')
+#6 C:\Users\wpere\Local Sites\client-blog-site\app\public\index.php(17): require('C:\\Users\\wpere\\...')
+#7 {main}
+  thrown in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php on line 2
+[04-Nov-2024 20:29:25 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[04-Nov-2024 20:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function boilerplate_language_attributes() in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php:2
+Stack trace:
+#0 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(745): load_template('C:\\Users\\wpere\\...', true, Array)
+#2 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\index.php(3): get_header()
+#4 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wpere\\...')
+#5 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wpere\\...')
+#6 C:\Users\wpere\Local Sites\client-blog-site\app\public\index.php(17): require('C:\\Users\\wpere\\...')
+#7 {main}
+  thrown in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php on line 2
+[04-Nov-2024 20:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function boilerplate_language_attributes() in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php:2
+Stack trace:
+#0 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(745): load_template('C:\\Users\\wpere\\...', true, Array)
+#2 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\index.php(3): get_header()
+#4 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wpere\\...')
+#5 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wpere\\...')
+#6 C:\Users\wpere\Local Sites\client-blog-site\app\public\index.php(17): require('C:\\Users\\wpere\\...')
+#7 {main}
+  thrown in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php on line 2
+[04-Nov-2024 20:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function boilerplate_language_attributes() in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php:2
+Stack trace:
+#0 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template.php(745): load_template('C:\\Users\\wpere\\...', true, Array)
+#2 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\index.php(3): get_header()
+#4 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wpere\\...')
+#5 C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wpere\\...')
+#6 C:\Users\wpere\Local Sites\client-blog-site\app\public\index.php(17): require('C:\\Users\\wpere\\...')
+#7 {main}
+  thrown in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php on line 2
