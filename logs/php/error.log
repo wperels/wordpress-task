@@ -77,3 +77,4 @@ Stack trace:
 #6 C:\Users\wpere\Local Sites\client-blog-site\app\public\index.php(17): require('C:\\Users\\wpere\\...')
 #7 {main}
   thrown in C:\Users\wpere\Local Sites\client-blog-site\app\public\wp-content\themes\wordpress-task-main\header.php on line 2
+[12-Nov-2024 23:38:30 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
